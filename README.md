@@ -1,2 +1,4 @@
 # hello-world
-실습
+
+hi!
+i'm korean student
